@@ -7,3 +7,5 @@ Wegen dieser Anleitung wurde es erstellt:
 - https://blog.freifunk.net/2014/03/25/6-schritten-zum-apifile/
 
 Es wird and https://github.com/freifunk/api.freifunk.net angebunden.
+
+Pull Request: https://github.com/freifunk/directory.api.freifunk.net/pull/585

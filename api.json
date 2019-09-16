@@ -1,0 +1,45 @@
+{
+  "name": "Freifunk Wolfen",
+  "url": "https://freifunk-wolfen.github.io/wolfen.freifunk.net/",
+  "location": {
+    "city": "Bitterfeld-Wolfen",
+    "country": "DE",
+    "lat": 51.6612289,
+    "lon": 12.2728957
+  },
+  "contact": {
+    "email": "niccokunzmann@gmail.com",
+    "phone": "+491633152415"
+  },
+  "state": {
+    "description": "Wir bauen eine kleine Community in Bitterfeld-Wolfen auf. Wir versuchen, viele öffentliche Orte und Menschen zu erreichen, die sich mit anbinden möchten.",
+    "focus": [
+      "Public Free Wifi",
+      "Free internet access"
+    ],
+    "lastchange": "2019-09-16T01:19:18.457Z"
+  },
+  "techDetails": {
+    "firmware": {
+      "name": "Berliner Firmware"
+    },
+    "networks": {
+      "ipv4": [
+        {
+          "network": "10.196.0.0/16"
+        }
+      ]
+    },
+    "routing": [
+      "802.11s",
+      "OLSR"
+    ],
+    "updatemode": [
+      "none"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.14"
+}
